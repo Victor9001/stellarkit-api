@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "Victor9001-patch-1",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "Victor9001-patch-1": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "Victor9001-patch-1",
+    "origin"
+  ]
+}
